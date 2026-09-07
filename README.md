@@ -1,2 +1,10 @@
 # PGA-GS3D
-3D model postavz za pomoci Gaussian Splatting systemu.
+** Cíl projektu **
+3D model postavy za pomoci Gaussian Splatting systemu.
+
+* Použitý software *
+
+- RealityScan
+- Lightfelt
+
+
